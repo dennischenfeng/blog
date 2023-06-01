@@ -19,3 +19,4 @@ Sonification is about producing audio to convey the information in a graph. So, 
 # TouchSonify
 
 # Fun demos
+[Demo 1](/assets/touchSonifyDemo1.html)
